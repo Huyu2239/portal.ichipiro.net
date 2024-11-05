@@ -1,0 +1,21 @@
+body {
+  background-color: #435068;
+  text-align: center;
+}
+
+footer {
+  background-color: #122338;
+  color: #fff;
+
+  width: 100%;
+
+  position: fixed;
+  left: 0;
+  bottom: 0;
+}
+
+#root {
+  margin: 0 auto;
+  width: 90vw;
+  max-width: 600px;
+}
